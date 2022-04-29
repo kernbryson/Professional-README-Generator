@@ -1,5 +1,4 @@
-// TODO: Create a function that returns a license badge based on which license is passed in
-// If there is no license, return an empty string
+// This function decides what correct badge to use when a license is picked
 function renderLicenseBadge(license) {
   let badge = "";
   switch (license) {
@@ -26,15 +25,9 @@ function renderLicenseBadge(license) {
   return badge;
 }
 
-// TODO: Create a function that returns the license link
-// If there is no license, return an empty string
-function renderLicenseLink(license) {}
 
-// TODO: Create a function that returns the license section of README
-// If there is no license, return an empty string
-function renderLicenseSection(license) {}
 
-// TODO: Create a function to generate markdown for README
+// This function calls the correct license badge to display while also generating the readMe file with the users data
 function generateMarkdown(data) {
   let badge = renderLicenseBadge(data.license);
   return `
@@ -68,7 +61,7 @@ ${data.tests}
 ${data.credits}
 
 ## License
-This project uses the ${data.license} license.
+This project uses the ${data.license} license. For more information, click the badge at the top.
 
 ## Questions
 Feel free to contact me with any questions or concerns!
