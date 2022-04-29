@@ -2,6 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+Video Walkthrough-https://drive.google.com/file/d/1NOx-tFv0SkCTX8ZwLc9DyR-AJuwsZegJ/view
+
 ## Description
 
 For this project I created a ReadMe Generator that takes in responses and displays them on a formatted readMe file. My motivation for this assignment was to make creating readMe's fast and easy so that I could spend more time coding. While creating this project I learned more about switches and template literals.
