@@ -1,8 +1,8 @@
 
-  # Project Title-Bryson Kern
-[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+  # Project title-Bryson Kern
+[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 ## Description 
-Project desc
+description
 
 
 ## Table of Contents 🧙
@@ -15,21 +15,45 @@ Project desc
 - [Questions](#Questions)
 
 ## Installation
-required steps
+steps required
 
 ## Usage
 
-project usage
+use it
 
 ## Tests
-simple tests
+tets
 
 ## Credits
 
-collaborators and third party sources
+collabs
 
 ## License
-This project uses the Mozilla license. For more information, click the badge at the top.
+Copyright (C) 2022  Bryson Kern
+      This is free and unencumbered software released into the public domain.
+
+      Anyone is free to copy, modify, publish, use, compile, sell, or
+      distribute this software, either in source code form or as a compiled
+      binary, for any purpose, commercial or non-commercial, and by any
+      means.
+      
+      In jurisdictions that recognize copyright laws, the author or authors
+      of this software dedicate any and all copyright interest in the
+      software to the public domain. We make this dedication for the benefit
+      of the public at large and to the detriment of our heirs and
+      successors. We intend this dedication to be an overt act of
+      relinquishment in perpetuity of all present and future rights to this
+      software under copyright law.
+      
+      THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+      EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+      MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+      IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
+      OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+      ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+      OTHER DEALINGS IN THE SOFTWARE.
+      
+      For more information, please refer to <http://unlicense.org/>
 
 ## Questions
 Feel free to contact me with any questions or concerns!
